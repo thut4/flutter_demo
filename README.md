@@ -1,6 +1,6 @@
 # login
 
-A new Flutter project.
+A new Flutter Login project.
 
 ## Getting Started
 
